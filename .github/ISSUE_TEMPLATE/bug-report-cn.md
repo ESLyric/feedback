@@ -27,3 +27,4 @@ assignees: ''
 
 **其他信息**
 其他与问题相关的信息
+如崩溃请附上crashreport(crash reports目录下)
