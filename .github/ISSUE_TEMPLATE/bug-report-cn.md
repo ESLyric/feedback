@@ -27,4 +27,5 @@ assignees: ''
 
 **其他信息**
 其他与问题相关的信息
-如崩溃请附上crashreport(crash reports目录下)
+如歌词显示问题请附上歌词文件及对应音频文件
+如崩溃请打包crashreport(crash reports目录下)
